@@ -18,5 +18,5 @@ int main()
     printf("%s\n", sen);
 
     return 0;
-}
 
+}
